@@ -19,3 +19,4 @@ My thesis can be found at:
 [THESIS_CORPORATE NETWORKS OF INTERNATIONAL INVESTMENT & TRADE](https://www.researchgate.net/publication/319876899_Corporate_networks_of_international_investment_and_trade)
 
 Here is a wordcloud based on my thesis:
+![](Thesis1.png)
